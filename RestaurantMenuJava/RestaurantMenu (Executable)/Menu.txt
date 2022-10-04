@@ -1,0 +1,44 @@
+Small Pizza
+6.00
+Medium Pizza
+8.00
+Large Pizza
+10.00
+Sausage
+0.50
+Pepperoni
+0.50
+Mushroom
+0.50
+Anchovy
+0.50
+Black Olives
+0.50
+Banana Peppers
+0.50
+Green Peppers
+0.50
+Extra Cheese
+0.50
+Crispy Crust
+0.00
+Garlic Crust
+0.50
+Cheese Filled Crust
+1.00
+Small Drink
+1.00
+Medium Drink
+1.50
+Large Drink
+2.00
+Coke
+1.00
+Sprite
+1.00
+Water
+0.00
+Ginger ale
+1.00
+Fanta
+1.00

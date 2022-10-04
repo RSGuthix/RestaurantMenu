@@ -1,0 +1,21 @@
+Date: 22 17 2020 
+ 
+Order number1,  2020-04-22 13:35:43.067
+Large Pizza
+10.00
+Garlic Crust
+0.50
+Green Peppers
+0.50
+Pepperoni
+0.50
+Black Olives
+0.50
+Anchovy
+0.50
+Medium Drink
+1.50
+Coke
+1.00
+Total Price is: $15.00
+ 

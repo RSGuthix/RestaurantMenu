@@ -1,0 +1,9 @@
+Date: 22 17 2020 
+ 
+Order number1,  2020-04-22 13:40:19.434
+Large Pizza
+10.00
+Crispy Crust
+0.00
+Total Price is: $10.00
+ 
